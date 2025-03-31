@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.1">
   <diagram name="Pagina-1" id="NtMqcoXfIARf6dPnadeA">
-    <mxGraphModel>
+    <mxGraphModel dx="1428" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AdCXIkS4-XWahsMDY3Jr-1" value="root = H(h&lt;sub&gt;12&lt;/sub&gt;&amp;nbsp;|| h&lt;sub&gt;34&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdCXIkS4-XWahsMDY3Jr-2" value="h&lt;sub&gt;12 &lt;/sub&gt;= H(h&lt;sub&gt;1&lt;/sub&gt;&amp;nbsp;|| h&lt;sub&gt;2&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdCXIkS4-XWahsMDY3Jr-3" value="h&lt;sub&gt;34&lt;/sub&gt;&amp;nbsp;= H(h&lt;sub&gt;3&lt;/sub&gt;&amp;nbsp;|| h&lt;sub&gt;4&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdCXIkS4-XWahsMDY3Jr-6" value="h&lt;sub&gt;1 &lt;/sub&gt;= H(00 || d&lt;sub&gt;0&lt;/sub&gt;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdCXIkS4-XWahsMDY3Jr-7" value="h&lt;sub&gt;2&lt;/sub&gt;&amp;nbsp;=&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdCXIkS4-XWahsMDY3Jr-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdCXIkS4-XWahsMDY3Jr-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
